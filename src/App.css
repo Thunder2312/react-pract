@@ -1,0 +1,10 @@
+ #root {
+  margin: 0 auto;
+  text-align: center;
+} 
+
+button{
+  background-color: white;
+  padding: 10px;
+  border-radius: 20%;
+}
